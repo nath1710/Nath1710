@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nataly Castañeda</h1>
 <h3 align="center">I am a self-taught developer passionate about technology, innovation and problem solving. Currently, I focus on web application development and have experience working with various technologies, both front-end and back-end.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nath1710" alt="nath1710" /></a> </p>
-
 - 🔭 I’m currently working on [Authentication system with Python Flask and React.js](https://github.com/Nath1710/Natalycastaneda_latampt36_AuthenticationsystemwithPythonFlaskandReact.js)
 
 - 🌱 I’m currently learning **Design Patterns,Algorithm & Data Structures and Introduction to Cybersecurity.**
+  
+- 💼 My portfolio **[https://nath1710.github.io/portfolio](https://nath1710.github.io/portfolio/)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,5 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nath1710&show_icons=true&locale=en&layout=compact" alt="nath1710" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nath1710&show_icons=true&locale=en" alt="nath1710" /></p>
 
